@@ -1,2 +1,6 @@
 ---
 # defaults file for lighthouse-role
+lighthouse_git: "git@github.com:VKCOM/lighthouse.git"
+
+lighthouse_folder: "/tmp/lighthouse"
+
